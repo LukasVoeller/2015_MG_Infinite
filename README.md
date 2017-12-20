@@ -1,4 +1,4 @@
-# MobileGame_2_Infinite
+# MobileGame_1_Infinite
 A 2D mobile game created with phaser.io and Cordova. The playable characters are some of my professors and the level is a part of the campus Westerberg.
 
 <p>
